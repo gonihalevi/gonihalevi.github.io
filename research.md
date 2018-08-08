@@ -22,13 +22,13 @@ Since starting at Princeton in September 2017, I have been running simplified si
 ![NSburn](figures/nsburn.png)
 <center>[Preliminary results] Simulated light curves for the rise of an X-ray burst in the case where the nuclear burning time is 50 ms and the ignition occurs at a latitude of 75 degrees. The different colors represent different viewing inclinations.</center>
 
-### Dynamics of jet-driven SNe
+### Dynamics of jet-driven supernovae
 in collab with philipp, blah blah (include figs)
 
 ---
 
 ## Completed (undergraduate) work
-### r-process nucleosynthesis in jet-driven SNe
+### r-process nucleosynthesis in jet-driven supernovae
 link papers, blah blah (figs)
-### SN observations
+### Observations: supernovae and AGN
 link papers and ATels, blah blah (figs)
