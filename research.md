@@ -18,7 +18,7 @@ in collab with philipp, blah blah (include figs)
 
 ---
 
-## Finished (undergraduate) work
+## Completed (undergraduate) work
 ### r-process nucleosynthesis in jet-driven SNe
 link papers, blah blah (figs)
 ### SN observations
