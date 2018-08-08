@@ -11,5 +11,5 @@ I work in computational, nuclear astrophysics and am primarily interested in hig
 ### Teaching and Outreach
 I am passionate about and strongly believe in the need for science to be accessibile to all people. I work hard toward this objective. This work involves both efforts to expose people who might otherwise not encounter much science to the field and efforts to make the scientific community inclusive and comfortable for all those who may want to enter it. I care about teaching astronomy, and doing it well, and about improving the climate in my field and in my department.
 
-## Contact
+### Contact Me
 Reach me at _ghalevi@astro.princeton.edu_, or if you're at local, find me in my windowless basement office, **009 Peyton Hall**.

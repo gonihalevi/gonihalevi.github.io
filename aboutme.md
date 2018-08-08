@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Research
+# About Me
 
 _yay_
