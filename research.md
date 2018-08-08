@@ -15,6 +15,7 @@ Starting in January 2018, I have been working to implement a nuclear reaction ne
 
 ![Source: Fernández & Metzger (2013)](figures/fernandezmetzger.jpg)
 <center>Source: Fernández & Metzger (2013)</center>
+
 ### Modeling type I X-ray bursts
 in collab with Anatoly, blah blah (include fig)
 ### Dynamics of jet-driven SNe
