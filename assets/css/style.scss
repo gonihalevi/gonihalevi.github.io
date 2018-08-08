@@ -4,11 +4,6 @@
 $header-heading-color: #fff !default;
 $header-bg-color: #159957 !default;
 $header-bg-color-secondary: #155799 !default;
-$header-bg-color: #520e89;
-.page-header {
-  color: $header-heading-color;
-  text-align: center;
-  background-color: $header-bg-color;
-  background-image:url('https://apod.nasa.gov/apod/image/1510/M16HubbleV4-X3walker.jpg');
-}
+$header-bg-color: #510592;
+$header-bg-color-secondary: #0511b4;
 @import "{{ site.theme }}";
