@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Goni Halevi
 description: princeton astrophysics PhD student
+# Google Analytics
+google_analytics: UA-123638175-1
