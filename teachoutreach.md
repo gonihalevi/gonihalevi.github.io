@@ -49,5 +49,6 @@ Previously, I was a regular volunteer at [Lick Observatory](http://mthamilton.uc
 
 When at Berkeley, I was the Outreach coordinator for the University's chapter of the Society of Physics Students and organized participation in many local outreach events. I also volunteered at the Expanding Your Horizons conferences for middle school girls which provides exposure to STEM fields and encourages young girls to explore them. I helped with the astronomy department's public observing nights there, too, and other events within the department. 
 
-[//]: <> (write about public observing, lick volunteering, expanding your horizons (2015, 2016), BASF (2014)
-Berkeley astro nights, Chabot Elementary 3rd grade class visit to Berkeley Astro 2016*,Cal Day Astronomy 2016,Willie Brown Middle School STEM Symposion 2015, Cal Day Physics (2014, 2015), Bay Area Teen Science STEM Fair 2015, MLK Middle School Homework Club 2013)
+[//]: <> (write about public observing, lick volunteering, expanding your horizons (2015, 2016), BASF (2014). Berkeley astro nights, Chabot Elementary 3rd grade class visit to Berkeley Astro 2016*,Cal Day Astronomy 2016,Willie Brown Middle School STEM Symposion 2015, Cal Day Physics (2014, 2015), Bay Area Teen Science STEM Fair 2015, MLK Middle School Homework Club 2013)
+
+
