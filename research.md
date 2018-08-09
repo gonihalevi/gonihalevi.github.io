@@ -36,5 +36,5 @@ For more information, see the two papers that have come out of these endeavours:
 <center><img src="figures/tracers.png" alt="tracers" height="450px"/> <img src="figures/volren.png" alt="volren" height="450px"/></center>
 <center><small>For an initial field of 10<sup>13</sup> G, we get a jetted explosion that produces r-process elements. Here, we show the tracer particle trajectories for a small sample of the particles, and a volume rendering colored by specific entropy.</small></center>
 
-### Observations: supernovae and AGN
-link papers and ATels, blah blah (figs)
+### Observations: supernovae and active galactic nuclei
+As an undergrad, I mostly did observational work as part of [Alex Filippenko](http://w.astro.berkeley.edu/~alex/)'s research team. I discovered several supernovae by checking images taken by the group's robotic telescope, the Katzmann Automated Imaging Telescope ([KAIT](http://w.astro.berkeley.edu/bait/kait.html)), which is located on Mount Hamilton at [Lick Observatory](http://mthamilton.ucolick.org/). Additionally, I spent many nights taking photometric data, mostly of recently detected SNe, with the Nickel, a 1-m telescope at Lick. I also spent many nights acquiring spectra of mainly SNe and some cepheids and AGN with Shane, the observatory's 3-m telescope. My AGN spectra were used for the Lick AGN Mapping Project ([LAMP](https://www.physics.uci.edu/~barth/lamp.html)), a collaborative reverberation mapping campaign led by [Aaron Barth](https://www.physics.uci.edu/~barth/).
