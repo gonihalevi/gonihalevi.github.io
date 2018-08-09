@@ -4,4 +4,4 @@ layout: default
 
 # About Me
 ---
-_yay_
+<center><img src="figures/portrait.jpg" alt="FM2013" width="300px"/></center>
