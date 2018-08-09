@@ -18,7 +18,7 @@ When arriving on campus, I was struck by the lack of climate data and initiative
 We have since established a climate committee that includes one staff member, one faculty member, two post-docs, an undergraduate student, a post-baccalaureate student, and a graduate student representative (currently me). The current goal of this committee is to work with the university to administer a climate survey, which should be completed in Fall 2018. Afterward, we plan to use data from the survey to motivate initiatives and changes that will help ensure that Peyton Hall is a comfortable and welcoming place for all.
  
 ### Mentoring Women in (Astro)Physics
-At Princeton, I mentor two female physics majors, which entails regular catch-up sessions and providing general advice and encouragement. I also work with the newly founded Undergraduate Women in Physics group here to advise them on events to host and programs to run. This has been an incredibly rewarding way to get to know the brilliant undergraduate women here and to support them so that the physics community gets to keep them.
+At Princeton, I mentor two female physics majors, which entails regular catch-up sessions and providing general advice and encouragement. I also work with Princeton's newly founded Undergraduate Women in Physics group to advise them on events to host and programs to run. This has been an incredibly rewarding way to get to know the brilliant undergraduate women here and to support them so that the physics community gets to keep them.
 
 My involvement with women in physics mentorship began at Berkeley, where I was a member and coordinator of the 
 [Society of Women in the Physical Sciences](https://swps.berkeley.edu/), a student group run by female graduate students. There, I was mentored by women who were more senior then me and also got to mentor younger undergraduate women. This network and community of people with shared experiences made my time as a physics major more manageable and enjoyable, inspiring me to participate in mentorship at Princeton, too.
@@ -26,15 +26,28 @@ My involvement with women in physics mentorship began at Berkeley, where I was a
 ---
 
 ## Teaching Experience
-write about PTI, reaching in spring
-OGSI award
-C10
-7B
-running Alex's group
+### Princeton Prison Teaching Initiative
+I teach college courses in the New Jersey prison system through the Prison Teaching Initiative ([PTI](https://www.prisonteaching.org/)). The aim of PTI is to reduce incarceration rates in NJ by increasing access to higher education in prisons, which helps keep formerly incarcerated people from returning to prison. I feel passionately about this mission and am excited to be involved with PTI. In Fall 2018, I'm teaching an introductory astronomy course at East Jersey State Prison in Rahway.
+
+### Teaching Astronomy at Berkeley
+I was lucky enough to have the opportunity to be a Graduate Student Instructor (GSI) for four semesters while an undergraduate at Berkeley. I taught two different courses: an introduction to general astronomy for non-majors (Astro C10) taught by Alex Filippenko, and part two of introductory astrophysics for majors (Astro 7B) taught by Eugene Chiang. My teaching responsibilities included independently running discussion sections (mini-lectures with activities and worksheets) for one to two hours per week, as well as running exam review sessions, helping with homework, etc.
+
+Teaching astronomy for non-majors was fun because it let me get people excited about astronomy and science in general. Many of my students were initially convinced that they were "bad at math" and would never understand or succeed in any science course. However, as time went on, many of them began to believe in themselves and view science as something that they could not only manage, but even love. Teaching a more rigorous course aimed at astrophysics majors was also uniquely rewarding; I had the opportunity to interact with very motivated and bright students who asked challenging questions and had interesting ideas.
+
+I was nominated by my department as an exceptional instructor and received the University's [Outstanding GSI Award](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/) in 2017.
+
+### Training Researchers
+As part of my role in Alex Filippenko's research group, I was responsible for training observers on the telescopes that the group uses and teaching the basics of relevant coding and science. This leadership role gave me experience with supervising scientists and I gained even more expertise by being forced to teach what I knew.
 
 ---
 
 ## Outreach
-SPS
-write about public observing, lick volunteering, expanding your horizons (2015, 2016), BASF (2014)
-Berkeley astro nights, Chabot Elementary 3rd grade class visit to Berkeley Astro 2016*,Cal Day Astronomy 2016,Willie Brown Middle School STEM Symposion 2015, Cal Day Physics (2014, 2015), Bay Area Teen Science STEM Fair 2015, MLK Middle School Homework Club 2013
+
+At Princeton, I volunteer at the department's public observing nights and help out at most one-time outreach events.
+
+Previously, I was a regular volunteer at [Lick Observatory](http://mthamilton.ucolick.org/) in California during the summer public programs for 3 years in a row. I gave short talks about my research to the observatory's visitors and led tours and explanations of the 1-m telescope.
+
+When at Berkeley, I was the Outreach coordinator for the University's chapter of the Society of Physics Students and organized participation in many local outreach events. I also volunteered at the Expanding Your Horizons conferences for middle school girls which provides exposure to STEM fields and encourages young girls to explore them. I helped with the astronomy department's public observing nights there, too, and other events within the department. 
+
+[//]: <> (write about public observing, lick volunteering, expanding your horizons (2015, 2016), BASF (2014)
+Berkeley astro nights, Chabot Elementary 3rd grade class visit to Berkeley Astro 2016*,Cal Day Astronomy 2016,Willie Brown Middle School STEM Symposion 2015, Cal Day Physics (2014, 2015), Bay Area Teen Science STEM Fair 2015, MLK Middle School Homework Club 2013)
