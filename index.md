@@ -10,7 +10,7 @@ I am a 2nd year grad student in the Department of [Astrophysical Sciences](https
 ### Research
 I work in computational, nuclear astrophysics and am primarily interested in high-energy phenomena including supernovae, compact object mergers, thermonuclear burning, and accretion disks. My current and past work involves the development, execution, and analysis of simulations. 
 
-### Teaching and Outreach
+### Equity & Inclusion, Teaching, and Outreach
 I am passionate about the need for science to be accessibile to all people, and I work hard toward this objective. This work involves both efforts to expose people who might otherwise not encounter much science to the field and efforts to make the scientific community inclusive and comfortable for all those who may want to enter it.
 
 ### Contact Me
