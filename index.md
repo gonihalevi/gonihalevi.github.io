@@ -5,7 +5,7 @@ layout: default
 ---
 
 ### Academics
-I am a 2nd year grad student and [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) ar the Department of [Astrophysical Sciences](https://web.astro.princeton.edu) at [Princeton](http://princeton.edu). In 2017, I completed my undergraduate education at [UC Berkeley](http://berkeley.edu) in the [Physics](http://physics.berkeley.edu) and [Astronomy](https://astro.berkeley.edu) Departments.
+I am a 2nd year PhD student and [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) in the Department of [Astrophysical Sciences](https://web.astro.princeton.edu) at [Princeton](http://princeton.edu). In 2017, I completed my undergraduate education at [UC Berkeley](http://berkeley.edu) in the [Physics](http://physics.berkeley.edu) and [Astronomy](https://astro.berkeley.edu) Departments.
 
 ### Research
 I work in computational, nuclear astrophysics and am primarily interested in high-energy phenomena including supernovae, compact object mergers, thermonuclear burning, and accretion disks. 
