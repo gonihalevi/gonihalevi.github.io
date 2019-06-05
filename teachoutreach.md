@@ -45,7 +45,7 @@ As part of my role in Alex Filippenko's research group, I was responsible for tr
 
 At Princeton, I volunteer at the department's public observing nights and help out at most one-time outreach events.
 
-Previously, I was a regular volunteer at [Lick Observatory](http://mthamilton.ucolick.org/) in California during the summer public programs for 3 years in a row. I gave short talks about my research to the observatory's visitors and led tours and explanations of the 1-m telescope.
+Previously, I was a regular volunteer at [Lick Observatory](http://mthamilton.ucolick.org/) in California during the summer public programs for 3 years in a row. I gave short talks about my research to the observatory's visitors and led tours and explanations of the 1-m telescope. 
 
 When at Berkeley, I was the Outreach coordinator for the University's chapter of the Society of Physics Students and organized participation in many local outreach events. I also volunteered at the Expanding Your Horizons conferences for middle school girls which provides exposure to STEM fields and encourages young girls to explore them. I helped with the astronomy department's public observing nights there, too, and other events within the department. 
 
