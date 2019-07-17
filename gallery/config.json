@@ -1,0 +1,366 @@
+{
+  "misc": [
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/misc/29610018.jpg",
+      "compressed_path": "./photos/misc/29610018.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/misc/29610018.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/misc/29610017.jpg",
+      "compressed_path": "./photos/misc/29610017.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/misc/29610017.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/misc/29610015.jpg",
+      "compressed_path": "./photos/misc/29610015.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/misc/29610015.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/misc/32680009.jpg",
+      "compressed_path": "./photos/misc/32680009.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/misc/32680009.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/misc/32680019.jpg",
+      "compressed_path": "./photos/misc/32680019.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/misc/32680019.placeholder.jpg"
+    }
+  ],
+  "home": [
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/home/29610021.jpg",
+      "compressed_path": "./photos/home/29610021.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/home/29610021.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1046,
+      "path": "./photos/home/4356_001.jpg",
+      "compressed_path": "./photos/home/4356_001.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/home/4356_001.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/home/29610002.jpg",
+      "compressed_path": "./photos/home/29610002.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/home/29610002.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1052,
+      "path": "./photos/home/4356_003.jpg",
+      "compressed_path": "./photos/home/4356_003.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/home/4356_003.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/home/29610007.jpg",
+      "compressed_path": "./photos/home/29610007.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/home/29610007.placeholder.jpg"
+    }
+  ],
+  "urban": [
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/urban/32680017.jpg",
+      "compressed_path": "./photos/urban/32680017.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/urban/32680017.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/urban/32680015.jpg",
+      "compressed_path": "./photos/urban/32680015.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/urban/32680015.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/urban/32680013.jpg",
+      "compressed_path": "./photos/urban/32680013.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/urban/32680013.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/urban/32680012.jpg",
+      "compressed_path": "./photos/urban/32680012.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/urban/32680012.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1047,
+      "path": "./photos/urban/4356_012.jpg",
+      "compressed_path": "./photos/urban/4356_012.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/urban/4356_012.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1050,
+      "path": "./photos/urban/4356_004.jpg",
+      "compressed_path": "./photos/urban/4356_004.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/urban/4356_004.placeholder.jpg"
+    }
+  ],
+  "natural": [
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680016.jpg",
+      "compressed_path": "./photos/natural/32680016.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680016.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680029.jpg",
+      "compressed_path": "./photos/natural/32680029.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680029.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680028.jpg",
+      "compressed_path": "./photos/natural/32680028.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680028.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680014.jpg",
+      "compressed_path": "./photos/natural/32680014.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680014.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680011.jpg",
+      "compressed_path": "./photos/natural/32680011.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680011.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/29610003.jpg",
+      "compressed_path": "./photos/natural/29610003.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/29610003.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/29610005.jpg",
+      "compressed_path": "./photos/natural/29610005.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/29610005.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/29610010.jpg",
+      "compressed_path": "./photos/natural/29610010.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/29610010.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/29610004.jpg",
+      "compressed_path": "./photos/natural/29610004.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/29610004.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/29610006.jpg",
+      "compressed_path": "./photos/natural/29610006.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/29610006.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680023.jpg",
+      "compressed_path": "./photos/natural/32680023.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680023.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1021,
+      "path": "./photos/natural/4216_009.jpg",
+      "compressed_path": "./photos/natural/4216_009.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/4216_009.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680034.jpg",
+      "compressed_path": "./photos/natural/32680034.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680034.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680035.jpg",
+      "compressed_path": "./photos/natural/32680035.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680035.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680021.jpg",
+      "compressed_path": "./photos/natural/32680021.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680021.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680031.jpg",
+      "compressed_path": "./photos/natural/32680031.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680031.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680030.jpg",
+      "compressed_path": "./photos/natural/32680030.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680030.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680032.jpg",
+      "compressed_path": "./photos/natural/32680032.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680032.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680026.jpg",
+      "compressed_path": "./photos/natural/32680026.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680026.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/natural/32680033.jpg",
+      "compressed_path": "./photos/natural/32680033.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/natural/32680033.placeholder.jpg"
+    }
+  ],
+  "subject": [
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/subject/29610022.jpg",
+      "compressed_path": "./photos/subject/29610022.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/subject/29610022.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/subject/29610024.jpg",
+      "compressed_path": "./photos/subject/29610024.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/subject/29610024.placeholder.jpg"
+    }
+  ],
+  "object": [
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/object/4216_001.jpg",
+      "compressed_path": "./photos/object/4216_001.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/object/4216_001.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/object/29610023.jpg",
+      "compressed_path": "./photos/object/29610023.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/object/29610023.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1048,
+      "path": "./photos/object/4356_016.jpg",
+      "compressed_path": "./photos/object/4356_016.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/object/4356_016.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/object/29610012.jpg",
+      "compressed_path": "./photos/object/29610012.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/object/29610012.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/object/32680036.jpg",
+      "compressed_path": "./photos/object/32680036.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/object/32680036.placeholder.jpg"
+    },
+    {
+      "width": 1544,
+      "height": 1024,
+      "path": "./photos/object/32680018.jpg",
+      "compressed_path": "./photos/object/32680018.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/object/32680018.placeholder.jpg"
+    }
+  ]
+}
