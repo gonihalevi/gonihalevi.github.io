@@ -15,4 +15,5 @@ I care deeply about math and science education, the accessibility of science, an
 
 ### Contact Me
 Reach me at [_ghalevi@astro.princeton.edu_](mailto:ghalevi@astro.princeton.edu), or if you're local, find me in my windowless basement office, **015 Peyton Hall** (except for when I'm traveling, which you can see below)
+
 *Sept. 28-Oct. 13, Yukawa Institute for Theoretical Physics (Kyoto, Japan), ["Multi-Messenger Astrophysics in the Gravitational Wave Era"](http://www2.yukawa.kyoto-u.ac.jp/~mmgw2019/index.php)
