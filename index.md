@@ -14,6 +14,6 @@ I work in computational, nuclear astrophysics and am primarily interested in hig
 I care deeply about math and science education, the accessibility of science, and equity and inclusion in physics, astronomy, and theoretical astrophysics. I put thought and effort toward these goals through my roles as a volunteer instructor of college courses in NJ prisons with [PTI](https://prisonteaching.org/), an executive board member of Princeton [Women in Physics](https://wip.princeton.edu/), the grad student representative on our departmental climate committee, a frequent volunteer at [Peyton Public Observing](https://www.astro.princeton.edu/observatory/publicobserving.php), and more.
 
 ### Contact Me
-Reach me at [_ghalevi@astro.princeton.edu_](mailto:ghalevi@astro.princeton.edu), or if you're local, find me in my windowless basement office, **015 Peyton Hall** (except for when I'm traveling, which you can see below)
+Reach me at [_ghalevi@astro.princeton.edu_](mailto:ghalevi@astro.princeton.edu), or if you're local, find me in my windowless basement office, **015 Peyton Hall**, or other basement office (which does have a teeny window in the corner), **048 Bloomberg Hall (IAS)**. (except for when I'm traveling, which you can see below)
 
-*Jan. 4-Jan. 8, Honolulu, HI, ["235th AAS Meeting"](https://aas.org/meetings/aas235)
+*Jan. 25-Feb. 2, British Virgin Islands, taking a much-needed vacation to sail with my family
