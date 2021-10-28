@@ -7,19 +7,19 @@ PHOTO_PATH = os.path.dirname(__file__) + '/../photos/'
 
 
 def is_image_path(path):
-    return re.search(r'\.(jpe?g|png)$', path)
+    return re.search(r'\.(jpe?g|png|JPG)$', path)
 
 
 def get_min_path(path):
-    return re.sub(r'\.(png|jpe?g)$', '.min.\g<1>', path)
+    return re.sub(r'\.(png|jpe?g|JPG)$', '.min.\g<1>', path)
 
 
 def get_placeholder_path(path):
-    return re.sub(r'\.(png|jpe?g)$', '.placeholder.\g<1>', path)
+    return re.sub(r'\.(png|jpe?g|JPG)$', '.placeholder.\g<1>', path)
 
 
 def get_path(path, ext):
-    return re.sub(r'\.(png|jpe?g)$', '.' + ext + '.\g<1>', path)
+    return re.sub(r'\.(png|jpe?g|JPG)$', '.' + ext + '.\g<1>', path)
 
 
 def is_original(path):
