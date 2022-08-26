@@ -6,9 +6,10 @@ layout: default
 ---
 Full lists of my publications can be found on [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Halevi%2C%20Goni%22&sort=date%20desc%2C%20bibcode%20desc)/[ORCID](https://orcid.org/0000-0002-7232-101X)/[arXiv](https://arxiv.org/search/?query=halevi%2Cgoni&searchtype=all&source=header)
 
-The descriptions below are currently pretty outdated.
----
+## If you are interested in hearing about what I'm working on these days, reach out and invite me to give a talk at your institution!
 
+---
+<!---
 ## Works in progress
 
 ### X-ray search for dwarf galaxies hosting accreting black holes
@@ -47,3 +48,5 @@ For more information, see the two papers that have come out of these endeavours:
 
 ### Observations: supernovae and active galactic nuclei
 As an undergrad, I mostly did observational work as part of [Alex Filippenko](http://w.astro.berkeley.edu/~alex/)'s research team. I discovered several supernovae by checking images taken by the group's robotic telescope, the Katzmann Automated Imaging Telescope ([KAIT](http://w.astro.berkeley.edu/bait/kait.html)), which is located on Mount Hamilton at [Lick Observatory](http://mthamilton.ucolick.org/). Additionally, I spent many nights taking photometric data, mostly of recently detected SNe, with the Nickel, a 1-m telescope at Lick. I also spent many nights acquiring spectra of mainly SNe and some cepheids and AGN with Shane, the observatory's 3-m telescope. My AGN spectra were used for the Lick AGN Mapping Project ([LAMP](https://www.physics.uci.edu/~barth/lamp.html)), a collaborative reverberation mapping campaign led by [Aaron Barth](https://www.physics.uci.edu/~barth/).
+
+-->
