@@ -1,17 +1,6 @@
 theme: jekyll-theme-cayman
 title: Goni Halevi
-description: princeton astrophysics PhD student + NSF fellow
+description: computational astrophysicist
 # Google Analytics
 google_analytics: UA-123638175-1
-imagesurl_achromatic: "gallery/photos/achromatic/"
-imagesurl_min_achromatic: "gallery/photos_min/achromatic/"
-imagesurl_constructed: "gallery/photos/constructed/"
-imagesurl_min_constructed: "gallery/photos_min/constructed/"
-imagesurl_internal: "gallery/photos/internal/"
-imagesurl_min_internal: "gallery/photos_min/internal/"
-imagesurl_natural: "gallery/photos/natural/"
-imagesurl_min_natural: "gallery/photos_min/natural/"
-imagesurl_personal: "gallery/photos/personal/"
-imagesurl_min_personal: "gallery/photos_min/personal/"
-imagesurl_vehicular: "gallery/photos/vehicular/"
-imagesurl_min_vehicular: "gallery/photos_min/vehicular/"
+
