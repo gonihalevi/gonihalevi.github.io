@@ -13,7 +13,7 @@ I work in computational, nuclear astrophysics and am primarily interested in hig
 ### Equity & Inclusion, Teaching, and Outreach
 I care deeply about math and science education, the accessibility of science, and equity and inclusion in physics, astronomy, and theoretical astrophysics. I have put thought and effort toward these goals through my roles as a graduate fellow and instructor with [Princeton Prison Teaching Initiative](https://prisonteaching.org/), an executive board member of [Princeton Women in Physics](https://wip.princeton.edu/), a founding member of the Princeton Astrophysics climate committee, a frequent volunteer at [Peyton Public Observing](https://www.astro.princeton.edu/observatory/publicobserving.php) and at [Lick Observatory](https://www.lickobservatory.org/), and more.
 
-At Illinois Tech, I teach Physics 221 (General Physics II: Electricity & Magnetism; Fall 2024, Spring 2025) and Physics 360 (Introduction to Astrophysics; Spring 2025).
+At Illinois Tech, I teach Physics 221 (General Physics II: Electricity & Magnetism; Fall 2024/25, Spring 2025/26) and Physics 360 (Introduction to Astrophysics; Spring 2025/26, and Physics 460 (Stellar Astrophysics; Fall 2025).
 
 ### Contact Me
-Reach me at [_ghalevi@iit.edu_](mailto:ghalevi@iit.edu).
+Reach me at [_ghalevi@illinoistech.edu_](mailto:ghalevi@illinoistech.edu).
